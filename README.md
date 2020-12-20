@@ -3,6 +3,10 @@
 <h1>Fontes</h1>
 <a href="https://fonts.google.com/" style="font-size: 20px">Google fonts</a>
 <br>
-<a href="https://fontba.se/" style="font-size: 20px">FontBase</a>
+<a href="https://fonts.adobe.com/" style="font-size: 20px">Adobe Fonts</a>
+<br>
+<a href="https://www.fontsquirrel.com/" style="font-size: 20px">Font Squirrel</a>
+<br>
+<a href="https://www.fontfabric.com/" style="font-size: 20px">fontfabric</a>
 
 
